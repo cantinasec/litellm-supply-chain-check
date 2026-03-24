@@ -2,7 +2,7 @@
 
 A Claude Code skill that checks whether your project or system was affected by the LiteLLM PyPI supply-chain compromise (malicious versions 1.82.7 and 1.82.8, published 2026-03-24).
 
-Built by [Cantina](https://cantina.security/).
+Built by [Cantina](https://cantina.security/) | [𝕏](https://x.com/cantinaxyz)
 
 ## What it does
 
